@@ -1,1 +1,3 @@
-test to see if git email went from school -> personal
+DMS321 Museum Project
+
+Based on Architecture and interior design.
