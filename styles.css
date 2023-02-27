@@ -1,0 +1,23 @@
+* {
+    font-family: "CooperBlack";
+    background-color: #FAF9F6;
+    text-align: center;
+    font-size: 25px
+}
+
+@font-face {
+    font-family: "CooperBlack";
+    src: url(fonts/windsor.ttf);
+}
+
+body {
+    background-color: #FAF9F6;
+}
+
+.home-padding {
+    padding-top: 100px
+}
+
+.pic {
+    width: 500px;
+}
