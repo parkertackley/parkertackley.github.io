@@ -15,9 +15,17 @@ body {
 }
 
 .home-padding {
-    padding-top: 100px
+    padding: 100px
 }
 
 .pic {
     width: 500px;
+}
+
+.desc {
+    text-align: left;
+}
+
+.home a:link {
+    color: black;
 }
